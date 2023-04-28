@@ -8,7 +8,7 @@ The program reads a text file containing 20 integers. It then read the file and 
 
 1. Create a text file named "Numbers.txt". You can choose other names but make sure to also change it in the code. See below on where to change the code:
 
-![image](https://user-images.githubusercontent.com/130126464/235192457-d951b5c4-d426-4416-adb7-cc165c6a36a5.png)
+![image](https://user-images.githubusercontent.com/130126464/235192660-9291c1e4-73cf-4d01-abc1-b29f5aaff941.png)
 
 
 2. Input 20 integers in the text file you created.
